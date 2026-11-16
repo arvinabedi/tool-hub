@@ -5,9 +5,9 @@
 | | |
 |---|---|
 | **Role** | Sole builder: brief, design, code, deployment, documentation |
-| **When** | August – October 2026 |
+| **When** | August – November 2026, still growing |
 | **Stack** | Next.js 16, React 19, TypeScript, Tailwind 4, SQLite (better-sqlite3), sharp, nginx, systemd |
-| **Size** | ~48,000 lines of TypeScript · 143 commits · 49 merged pull requests |
+| **Size** | ~115,000 lines of TypeScript · 420 commits · 150 merged pull requests |
 | **Status** | In production on the company's Linux server, used daily by the branding team |
 
 > The source is private company code at Ronix Tools. I'm glad to walk through it in an interview. → [Portfolio](https://arvinabedi.github.io)
